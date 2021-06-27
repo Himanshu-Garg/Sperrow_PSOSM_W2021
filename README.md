@@ -1,5 +1,8 @@
 # Sperrow
 
+## Demo video  
+https://drive.google.com/file/d/1UlplDSG_WD2wvL-K_AlfSp9-_CwZCbnv/view?usp=sharing
+
 ## Overview
 
 * To curb the spread of fake news, we wanted to give the user a passive nudge. 
